@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       Jai Shree Ram ||
       Jai Siya Ram
+      Hello Jaipur King ajmer
     </div>
   );
 }
