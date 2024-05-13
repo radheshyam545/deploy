@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Jai Shree Ram
+      Jai Shree Ram ||
+      Jai Siya Ram
     </div>
   );
 }
